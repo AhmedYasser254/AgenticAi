@@ -1,0 +1,12 @@
+[project]
+name = "python-module"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "langchain>=1.2.10",
+    "langgraph>=1.0.8",
+    "pandas>=3.0.1",
+]
